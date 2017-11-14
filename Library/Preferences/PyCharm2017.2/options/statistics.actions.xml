@@ -1,0 +1,53 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Undo" count="52" />
+      <entry action="ActivateProjectToolWindow" count="5" />
+      <entry action="ActivateVersionControlToolWindow" count="2" />
+      <entry action="CloseAllEditorsButActive" count="3" />
+      <entry action="CommentByLineComment" count="6" />
+      <entry action="Debug" count="1" />
+      <entry action="EditorBackSpace" count="1059" />
+      <entry action="EditorChooseLookupItem" count="356" />
+      <entry action="EditorChooseLookupItemCompleteStatement" count="12" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorCompleteStatement" count="167" />
+      <entry action="EditorCopy" count="34" />
+      <entry action="EditorCut" count="12" />
+      <entry action="EditorDeleteLine" count="17" />
+      <entry action="EditorDown" count="102" />
+      <entry action="EditorDuplicate" count="4" />
+      <entry action="EditorEnter" count="450" />
+      <entry action="EditorEscape" count="4" />
+      <entry action="EditorIndentSelection" count="2" />
+      <entry action="EditorLeft" count="75" />
+      <entry action="EditorLeftWithSelection" count="17" />
+      <entry action="EditorPaste" count="92" />
+      <entry action="EditorRight" count="54" />
+      <entry action="EditorRightWithSelection" count="6" />
+      <entry action="EditorSplitLine" count="3" />
+      <entry action="EditorStartNewLine" count="209" />
+      <entry action="EditorStartNewLineBefore" count="1" />
+      <entry action="EditorTab" count="64" />
+      <entry action="EditorUp" count="81" />
+      <entry action="Find" count="3" />
+      <entry action="GotoDeclaration" count="3" />
+      <entry action="MoveStatementDown" count="2" />
+      <entry action="MoveStatementUp" count="3" />
+      <entry action="NewDir" count="1" />
+      <entry action="NewElement" count="8" />
+      <entry action="NewPythonFile" count="1" />
+      <entry action="ParameterInfo" count="6" />
+      <entry action="ReformatCode" count="63" />
+      <entry action="ReplaceInPath" count="1" />
+      <entry action="Rerun" count="9" />
+      <entry action="Run" count="165" />
+      <entry action="RunClass" count="9" />
+      <entry action="SaveAll" count="294" />
+      <entry action="SendEOF" count="2" />
+      <entry action="ShowIntentionActions" count="14" />
+      <entry action="Stop" count="1" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+    </counts>
+  </component>
+</application>
